@@ -17,7 +17,7 @@ Prerequisites : Install latest version of MongoDB and ensure MongoDB server is s
 
 1. git clone https://github.com/schempakath/myretail-products-api.git
 
-2. cd MyRetailApp
+2. cd myretail-products-api
 
 3. mvn package
 
