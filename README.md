@@ -8,7 +8,7 @@ Technology and Frameworks Used :
 2. Spring Boot 2.0.2 
 3. MongoDB (version - 3.6)
 4. Embedded Tomcat server
-5) Apache-maven-3.5.3
+5. Apache-maven-3.5.3
 
 
 Prerequisites : Install latest version of MongoDB and ensure MongoDB server is started. 
