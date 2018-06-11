@@ -17,11 +17,13 @@ Prerequisites : Install latest version of MongoDB and ensure MongoDB server is s
 
 1. git clone https://github.com/schempakath/myretail-products-api.git
 
-2. cd myretail-products-api
+2. cd {cloned directory}/myretail-products-api
 
 3. mvn package
 
-4. java -jar -Dspring.profiles.active=prod myretail_products_api-0.0.1-SNAPSHOT.jar
+4. cd {cloned directory}/myretail-products-api/target 
+
+5. java -jar -Dspring.profiles.active=prod myretail_products_api-0.0.1-SNAPSHOT.jar
 	
 Note: Based on env, Profile can be changed in above command
 
