@@ -67,7 +67,7 @@ Error Message - Product Name and/or Price cannot be retrieved now
 Scenario - Product Id  in the request is not present in database or while invoking external api
 
 
-Error Code - 500
+Error Code - 503
 Error Message - Service is unavailable now
 Scenario - If there is any generic exception thrown in the application.
 
